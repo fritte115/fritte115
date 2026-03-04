@@ -2,10 +2,10 @@
 
 🎓 Currently Studying: 4th year M.Sc in Computer and Information Engineering 
 💻 Interested in: AI, machine learning, EDA and building applications with real life value! 
-📍 Based in: Uppsala/Stochkolm
+📍 Based in: Uppsala/Stockholm
 
 ## 🚀 About Me
-- Currently working on: Arkyv - AI for Architects | Equity Risk analysis @ UEAM. 
+- Something big coming soon...| Equity Risk analysis @ UEAM. 
 - Learning: Building agents, 
 - Interests: Music, rock climbing, food, amazing people. 
 
