@@ -5,7 +5,7 @@
 📍 Based in: Uppsala/Stockholm
 
 ## 🚀 About Me
-- Something big coming soon... | Equity Risk analysis @ UEAM. 
+- Technical Consultant @ Chemtronica | Equity Risk analysis @ UEAM. 
 - Learning: Building agents, 
 - Interests: Music, rock climbing, food, amazing people. 
 
