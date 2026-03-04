@@ -5,7 +5,7 @@
 📍 Based in: Uppsala/Stockholm
 
 ## 🚀 About Me
-- Something big coming soon...| Equity Risk analysis @ UEAM. 
+- Something big coming soon... | Equity Risk analysis @ UEAM. 
 - Learning: Building agents, 
 - Interests: Music, rock climbing, food, amazing people. 
 
