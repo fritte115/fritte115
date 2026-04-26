@@ -6,7 +6,7 @@
 
 ## About Me
 - Technical Consultant @ Chemtronica | Equity Risk analysis @ UEAM. 
-- Learning: Building agents, 
+- Learning: Building RAG, multi-agent frameworks
 - Interests: Music, rock climbing, food, amazing people. 
 
 ## Tech Stack
